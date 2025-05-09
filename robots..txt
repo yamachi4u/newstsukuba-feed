@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yamachi4u.github.io/newstsukuba-feed/feed.xml
