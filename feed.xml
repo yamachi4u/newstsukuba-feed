@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Fri, 09 May 2025 12:52:45 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 May 2025 12:34:10 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -282,6 +282,21 @@
 「故郷」の変化を記録 解体される公務員宿舎の写真展]]></description>
   <itunes:duration>Sat Dec 30 1899 00:07:04 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>18</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年05月05日から25年05月12日掲載「社会人の意識で踏み出す　関彰商事が入社式」「若者の奨学金返還を支援　土浦市」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/05/20250514_podcast.mp3</guid>
+  <pubDate>Tue, 13 May 2025 15:00:00 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/05/20250514_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+社会人の意識で踏み出す　関彰商事が入社式
+若者の奨学金返還を支援　土浦市
+常総学院が3連覇　春季高校野球県大会
+邦楽の音遠くなりにけり　50周年の土浦三曲会　25日に定期演奏会]]></description>
+  <itunes:duration>Sat Dec 30 1899 05:06:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>19</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
