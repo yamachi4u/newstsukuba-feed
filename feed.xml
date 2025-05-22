@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 21 May 2025 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 May 2025 02:03:13 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -297,6 +297,28 @@
 邦楽の音遠くなりにけり　50周年の土浦三曲会　25日に定期演奏会]]></description>
   <itunes:duration>Sat Dec 30 1899 05:06:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>19</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年05月12日から25年05月19日掲載「学校給食に異物混入　つくば市の中学校」「群馬に5連敗　茨城アストロプラネッツ」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/05/20250521_podcast.mp3</guid>
+  <pubDate>Invalid Date</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/05/20250521_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+学校給食に異物混入　つくば市の中学校
+群馬に5連敗　茨城アストロプラネッツ
+難民支える自治体ネットワークに加入　つくば市　全国19番目
+落成式に石破首相　産総研に社会実装向け計算技術拠点　つくば
+名称が決定　筑波大野球・ソフトボール室内練習場
+つくば市消防職員を懲戒処分　停職5カ月　酒気帯び運転の車に同乗　
+つくばの県立高4校が魅力を紹介　18日、市民団体が「高校進学を考える集い」
+「当たり前」を問い直す　哲学カフェ　土浦一高生が市民と開催
+市職員の告発文書につくば市総務部長が注意喚起、市議「公益通報に対する威嚇だ」
+国重文2種の「原器」ご開帳　メートル条約150周年に産総研
+筑波山麓の民間交流施設で上映会　神社を継承する人々描く]]></description>
+  <itunes:duration>Sat Dec 30 1899 18:14:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>20</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
