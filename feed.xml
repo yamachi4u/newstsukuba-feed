@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 28 May 2025 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 May 2025 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -319,6 +319,19 @@
 筑波山麓の民間交流施設で上映会　神社を継承する人々描く]]></description>
   <itunes:duration>Sat Dec 30 1899 18:14:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>20</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年05月19日から25年05月26日掲載「学校給食に異物混入　つくば市の中学校」「群馬に5連敗　茨城アストロプラネッツ」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/05/20250528_podcast.mp3</guid>
+  <pubDate>Invalid Date</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/05/20250528_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+学校給食に異物混入　つくば市の中学校
+群馬に5連敗　茨城アストロプラネッツ]]></description>
+  <itunes:duration>Sat Dec 30 1899 03:08:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>21</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
