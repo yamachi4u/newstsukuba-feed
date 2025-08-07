@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 06 Aug 2025 02:03:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 07 Aug 2025 02:03:13 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -380,6 +380,29 @@
 土浦工業、コールド勝ち【高校野球茨城’25】]]></description>
   <itunes:duration>Sat Dec 30 1899 16:03:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>23</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年07月28日から25年08月04日掲載「シングルマザーの支援に取り組む弁護士　田中記代美さん 土浦【ひと】」「2mの「粘土の塔」作りに挑戦　小学生が筑波大生と」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/08/20250806_podcast.mp3</guid>
+  <pubDate>Wed, 06 Aug 2025 10:45:15 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/08/20250806_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+シングルマザーの支援に取り組む弁護士　田中記代美さん 土浦【ひと】
+2mの「粘土の塔」作りに挑戦　小学生が筑波大生と
+関心高く300人参加　小規模特認校 保護者説明会　つくば市
+ディズニーの国で小児がん克服　陽子線治療センターに新棟　筑波大病院
+5連勝ならず　アストロプラネッツ
+当事者家族の写真提供を知人に依頼　つくば市消防長を訓告処分
+誤った宛名で21人に発送　つくば市　県戦没者追悼式の案内文書
+物理法則や数式が芸術に　1日からつくばメディアアート・フェス
+TX東京駅延伸　機運醸成へ、効果を調査　首都圏新都市鉄道　
+山中たい子氏が立候補を表明　県議補選つくば市区
+TX茨城空港延伸へ活動を継続　7市議会期成同盟
+夏を彩る大型タペストリー　今年もつくば駅前商業施設に展示]]></description>
+  <itunes:duration>Sat Dec 30 1899 20:18:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>24</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
