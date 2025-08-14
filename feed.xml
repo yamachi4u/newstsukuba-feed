@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 13 Aug 2025 02:03:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 14 Aug 2025 02:03:13 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -403,6 +403,24 @@ TX茨城空港延伸へ活動を継続　7市議会期成同盟
 夏を彩る大型タペストリー　今年もつくば駅前商業施設に展示]]></description>
   <itunes:duration>Sat Dec 30 1899 20:18:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>24</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年08月04日から25年08月11日掲載「復刻「陣中占ひ」で記憶の糸たぐる　土浦 石田和美さん【戦後80年】」「つくば市長「外国人と共生のメッセージ出し続けたい」【参院選を振り返る】㊦」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/08/20250813_podcast.mp3</guid>
+  <pubDate>Wed, 13 Aug 2025 10:43:59 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/08/20250813_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+復刻「陣中占ひ」で記憶の糸たぐる　土浦 石田和美さん【戦後80年】
+つくば市長「外国人と共生のメッセージ出し続けたい」【参院選を振り返る】㊦
+日本人って何だろう？　つくばで生きる中国出身者の思い【参院選を振り返る】㊤
+筑波大生が夏休みの宿題を応援　「アドバイスもらい勉強になった」
+持ち味はミルキーな甘い香気　ナシ新品種お披露目
+バイオものづくり研究棟開所　産総研つくばセンター
+450万円！ 返礼品に「貸し切りナイトプール」 土浦市]]></description>
+  <itunes:duration>Sat Dec 30 1899 10:28:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>25</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
