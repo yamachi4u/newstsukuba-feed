@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 20 Aug 2025 02:03:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 21 Aug 2025 02:03:15 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -421,6 +421,23 @@ TX茨城空港延伸へ活動を継続　7市議会期成同盟
 450万円！ 返礼品に「貸し切りナイトプール」 土浦市]]></description>
   <itunes:duration>Sat Dec 30 1899 10:28:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>25</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年08月11日から25年08月18日掲載「事前審査に3陣営　県議補選つくば市区」「開拓の地に根を張って　芝と共に歩んだ大日向組合【戦後80年】」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/08/20250820_podcast.mp3</guid>
+  <pubDate>Wed, 20 Aug 2025 10:44:00 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/08/20250820_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+事前審査に3陣営　県議補選つくば市区
+開拓の地に根を張って　芝と共に歩んだ大日向組合【戦後80年】
+疎開先で空襲に遭い母に手を引かれ逃げた【語り継ぐ 戦後80年】2
+戦死した兄思い玉音放送聞いた【語り継ぐ 戦後80年】
+ペットの熱中症にも注意を　土浦の動物病院が呼び掛け
+復刻「陣中占ひ」で記憶の糸たぐる　土浦 石田和美さん【戦後80年】]]></description>
+  <itunes:duration>Sat Dec 30 1899 09:12:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>26</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
