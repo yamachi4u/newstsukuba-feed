@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 27 Aug 2025 02:03:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 28 Aug 2025 02:03:13 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -438,6 +438,24 @@ TX茨城空港延伸へ活動を継続　7市議会期成同盟
 復刻「陣中占ひ」で記憶の糸たぐる　土浦 石田和美さん【戦後80年】]]></description>
   <itunes:duration>Sat Dec 30 1899 09:12:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>26</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年08月18日から25年08月25日掲載「TXが開業20年 「多くの方に支えられ成長できた」　」「ラッピング列車「ユニール号」24日から運行　TX開業20年」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/08/20250827_podcast.mp3</guid>
+  <pubDate>Wed, 27 Aug 2025 10:44:49 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/08/20250827_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+TXが開業20年 「多くの方に支えられ成長できた」　
+ラッピング列車「ユニール号」24日から運行　TX開業20年
+小田の祇園祭　つくば市無形民俗文化財に
+23、24日はまつりつくば　ごみ袋「もってかえる」を1万枚配布　　
+ペット学校→日本語学校→次は？東郷サンスイG代表【キーパーソン】
+高校生と一緒に土浦を活性化したい　教員 酒井慶太さん【ひと】
+事前審査に3陣営　県議補選つくば市区]]></description>
+  <itunes:duration>Sat Dec 30 1899 11:36:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>27</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
