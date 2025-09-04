@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 03 Sep 2025 02:03:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Sep 2025 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -456,6 +456,26 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 事前審査に3陣営　県議補選つくば市区]]></description>
   <itunes:duration>Sat Dec 30 1899 11:36:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>27</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年08月25日から25年09月01日掲載「市役所の壁突き破り「つちまる」現る　土浦駅前」「ライバル4書店が力合わせ　第1回つくば本推しコンテスト　」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/09/20250903_podcast.mp3</guid>
+  <pubDate>Wed, 03 Sep 2025 10:44:20 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/09/20250903_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+市役所の壁突き破り「つちまる」現る　土浦駅前
+ライバル4書店が力合わせ　第1回つくば本推しコンテスト　
+アストロプラネッツ3連勝　つくばで福島と対戦
+谷川俊太郎をしのぶ　つくばでつながった縁きっかけ
+塚本一也氏第一声　全文文字起こし　県議補選つくば市区
+山中たい子氏第一声　全文文字起こし　県議補選つくば市区
+元職2氏が届け出、一騎打ちに　県議補選つくば市区告示
+元職同士の一騎打ちか　あす告示　県議補選つくば市区
+「つくば市1市が水戸・日立エリアに匹敵、改善を」 2038年の中学卒業見込数]]></description>
+  <itunes:duration>Sat Dec 30 1899 13:43:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>28</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
