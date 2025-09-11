@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 10 Sep 2025 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Sep 2025 02:03:11 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -476,6 +476,24 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 「つくば市1市が水戸・日立エリアに匹敵、改善を」 2038年の中学卒業見込数]]></description>
   <itunes:duration>Sat Dec 30 1899 13:43:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>28</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年09月01日から25年09月08日掲載「塚本一也氏が再選　県議補選つくば市区」「開票始まる　県議補選つくば市区」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/09/20250910_podcast.mp3</guid>
+  <pubDate>Wed, 10 Sep 2025 10:44:09 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/09/20250910_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+塚本一也氏が再選　県議補選つくば市区
+開票始まる　県議補選つくば市区
+あす投開票　県議補選つくば市区
+筑波大ラグビー部、一誠商事とスポンサー契約　公式戦で広告解禁
+除草中に小石跳ね　割れたガラスで幼児がけが　つくば市
+下水道使用料引き上げなど提案　つくば市　水道料金に続き2年連続
+市役所の壁突き破り「つちまる」現る　土浦駅前]]></description>
+  <itunes:duration>Sat Dec 30 1899 10:57:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>29</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
