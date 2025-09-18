@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 17 Sep 2025 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Sep 2025 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -494,6 +494,23 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 市役所の壁突き破り「つちまる」現る　土浦駅前]]></description>
   <itunes:duration>Sat Dec 30 1899 10:57:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>29</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年09月08日から25年09月15日掲載「「透明人間じゃない」学校での付き添い　母たちによるトークイベント」「つくば駅前「となりのスタジオ」から発信　ラヂオつくば」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/09/20250917_podcast.mp3</guid>
+  <pubDate>Wed, 17 Sep 2025 10:44:02 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/09/20250917_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+「透明人間じゃない」学校での付き添い　母たちによるトークイベント
+つくば駅前「となりのスタジオ」から発信　ラヂオつくば
+「障害があっても住みやすい地域を」根本希美子さん【鬼怒川水害から10年】㊦
+茗渓学園、学校移転を中止　TX研究学園駅南側
+筑波大運動部学生とアスリート社員らが交流会　関彰商事社長「一緒に地域貢献を」
+「危険な場所から改修を」片倉一美さん【鬼怒川水害10年】㊤　]]></description>
+  <itunes:duration>Sat Dec 30 1899 09:41:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>30</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
