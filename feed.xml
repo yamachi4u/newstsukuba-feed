@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 01 Oct 2025 02:03:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Oct 2025 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -534,6 +534,27 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 歴代入賞作品約100点を一堂に　土浦で「世界児童画展セレクション」　]]></description>
   <itunes:duration>Sat Dec 30 1899 17:19:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>31</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年09月22日から25年09月29日掲載「花室から上広岡の突風は竜巻　水戸気象台　18日つくばの被害」「逃げ遅れゼロなど　沿岸7首長らが行動宣言　鬼怒川水害10年」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/10/20251001_podcast.mp3</guid>
+  <pubDate>Wed, 01 Oct 2025 10:44:47 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/10/20251001_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+花室から上広岡の突風は竜巻　水戸気象台　18日つくばの被害
+逃げ遅れゼロなど　沿岸7首長らが行動宣言　鬼怒川水害10年
+霞ケ浦、決勝で鹿島学園に敗れる　高校女子サッカー県大会
+「報告書は不十分、第三者委設置を」つくば市職員の請願不採択　生活保護
+建物自体が実験室　学園の森に朝日工業社つくば技術研究所完成
+41年ぶり　膵腎同時移植を実施　筑波大附属病院
+沖縄の音色響く　つくばで4教室合同発表会
+最先端の知見生かすスポーツ教育と研究の舞台に　筑波大に室内練習施設完成
+直通電話が不通に　つくば市消防総務課で18日
+つくばFC敗れる　ホーム最終戦]]></description>
+  <itunes:duration>Sat Dec 30 1899 16:53:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>32</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
