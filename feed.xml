@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 08 Oct 2025 02:03:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Oct 2025 02:03:16 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -555,6 +555,24 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 つくばFC敗れる　ホーム最終戦]]></description>
   <itunes:duration>Sat Dec 30 1899 16:53:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>32</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年09月29日から25年10月06日掲載「豪華！土浦花火弁当　7店が13種 販売開始　地元食材ふんだんに」「つくばアルボラーダ　世界大会出場へ　3人制バスケ」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/10/20251008_podcast.mp3</guid>
+  <pubDate>Wed, 08 Oct 2025 10:44:47 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/10/20251008_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+豪華！土浦花火弁当　7店が13種 販売開始　地元食材ふんだんに
+つくばアルボラーダ　世界大会出場へ　3人制バスケ
+現地の暮らしに密着し海外を撮影旅行　土浦の石川多依子さん「一期一会」展　
+場所を誤認し救急隊の到着10分遅延　つくば市消防
+海外出張　市長はビジネスクラスまで　全会一致で修正案可決
+防災拠点27年末完成へ　大屋根芝生広場は計画変更　旧総合運動公園用地
+花室から上広岡の突風は竜巻　水戸気象台　18日つくばの被害]]></description>
+  <itunes:duration>Sat Dec 30 1899 13:45:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>33</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
