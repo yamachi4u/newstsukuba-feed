@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 22 Oct 2025 02:03:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 23 Oct 2025 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -596,6 +596,25 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 つくばアルボラーダ　世界大会出場へ　3人制バスケ]]></description>
   <itunes:duration>Sat Dec 30 1899 18:56:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>34</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年10月13日から25年10月20日掲載「「パレスチナの子供たちに思いはせてほしい」 靴150足並べ追悼と抗議」「女性が働きやすい建設会社へ「取り組み認められた」　つくばの浅野物産」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/10/20251022_podcast.mp3</guid>
+  <pubDate>Wed, 22 Oct 2025 10:44:01 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/10/20251022_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+「パレスチナの子供たちに思いはせてほしい」 靴150足並べ追悼と抗議
+女性が働きやすい建設会社へ「取り組み認められた」　つくばの浅野物産
+「いっぱい笑った」つくばの保育園で初公演　イタリア劇団 ラ・バラッカ
+茨城ロボッツ敗れる　開幕1勝4敗に　
+廃校をサイクリスト拠点やレストランに　旧斗利出小　土浦市が地元企業に売却へ
+油彩画、水墨画など70点　筑波銀行退職者の会が美術展　つくば本部ギャラリー
+旧日本軍の二つの飛行場から「戦争とつくば」考える　戦後80年企画展
+出土品の文字から遺跡の性格探る　開館30周年企画展　土浦]]></description>
+  <itunes:duration>Sat Dec 30 1899 12:35:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>35</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
