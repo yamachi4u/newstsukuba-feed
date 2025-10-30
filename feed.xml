@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 29 Oct 2025 02:03:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Oct 2025 02:03:14 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -615,6 +615,27 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 出土品の文字から遺跡の性格探る　開館30周年企画展　土浦]]></description>
   <itunes:duration>Sat Dec 30 1899 12:35:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>35</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年10月20日から25年10月27日掲載「高校総体大会新、アジア選手権で三つのメダル　平泳ぎ 常総学院 中澤心暖選手」「色彩とリズムの饗宴　フランス音楽研究会がサロンコンサート」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/10/20251029_podcast.mp3</guid>
+  <pubDate>Wed, 29 Oct 2025 10:44:44 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/10/20251029_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+高校総体大会新、アジア選手権で三つのメダル　平泳ぎ 常総学院 中澤心暖選手
+色彩とリズムの饗宴　フランス音楽研究会がサロンコンサート
+わんわんランドで愛犬と学園祭　つくば国際ペット専門学校
+入替戦 第1戦は敗れる　つくばFCレディース　なでしこ2部復帰目指し
+「外国人差別に反対」国道沿いで抗議行動　常総市議ら呼び掛け
+小田氏の一族郎党　435年ぶり居城跡に参集　つくば
+つくば市職員2人を失職及び懲戒処分
+筑波大 岡城選手　阪神がドラフト3位指名
+170企業・団体が技術や商品PR　筑波銀行ビジネス交流商談会
+日本語学ぶ10月入学生大幅増　日本つくば国際語学院で歓迎会]]></description>
+  <itunes:duration>Sat Dec 30 1899 15:43:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>36</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
