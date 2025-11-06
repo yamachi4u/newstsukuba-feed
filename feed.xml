@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 05 Nov 2025 02:03:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 06 Nov 2025 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -636,6 +636,27 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 日本語学ぶ10月入学生大幅増　日本つくば国際語学院で歓迎会]]></description>
   <itunes:duration>Sat Dec 30 1899 15:43:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>36</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年10月27日から25年11月03日掲載「予定通りあす11月1日開催　土浦全国花火競技大会」「プロポスト職を配置　筑波大　学長と役割分担し教育研究を統括」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/11/20251105_podcast.mp3</guid>
+  <pubDate>Wed, 05 Nov 2025 10:46:20 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/11/20251105_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+予定通りあす11月1日開催　土浦全国花火競技大会
+プロポスト職を配置　筑波大　学長と役割分担し教育研究を統括
+プロボスト職を配置　筑波大　学長と役割分担し教育研究を統括
+つくばのトリマー 篠崎涼太さん　世界大会で個人3位に
+九州大の安達千波矢氏に江崎玲於奈賞　有機LEDを高性能化
+田井ミュージアムでアートパフォーマンスや作品展　筑波山麓秋祭り㊦　
+報酬改定の加算分を5年間未払い　障害児放課後デイサービス　つくば市
+古民家開放しカフェやコンサート　筑波山麓秋祭り㊤
+高校総体大会新、アジア選手権で三つのメダル　平泳ぎ 常総学院 中澤心暖選手
+色彩とリズムの饗宴　フランス音楽研究会がサロンコンサート]]></description>
+  <itunes:duration>Sat Dec 30 1899 16:22:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>37</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
