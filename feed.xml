@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 12 Nov 2025 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Nov 2025 02:03:16 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -657,6 +657,22 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 色彩とリズムの饗宴　フランス音楽研究会がサロンコンサート]]></description>
   <itunes:duration>Sat Dec 30 1899 16:22:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>37</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年11月03日から25年11月10日掲載「冬のプールを河童が占拠！　石塚隆則さん　つくばの公園で作品展」「人生100年時代、終活は「住まい」から　サンヨーホームズが提案」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/11/20251112_podcast.mp3</guid>
+  <pubDate>Wed, 12 Nov 2025 10:43:33 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/11/20251112_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+冬のプールを河童が占拠！　石塚隆則さん　つくばの公園で作品展
+人生100年時代、終活は「住まい」から　サンヨーホームズが提案
+金利引き上げ影響　増収増益に　筑波銀行 26年中間決算
+筑波技術大で壮行会　東京2025デフリンピック　15日開幕
+「鉄道がもつ物語性を美しく見せたい」　せきごうさん写真展]]></description>
+  <itunes:duration>Sat Dec 30 1899 07:15:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>38</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
