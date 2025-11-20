@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 19 Nov 2025 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Nov 2025 02:03:13 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -673,6 +673,23 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 「鉄道がもつ物語性を美しく見せたい」　せきごうさん写真展]]></description>
   <itunes:duration>Sat Dec 30 1899 07:15:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>38</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年11月10日から25年11月17日掲載「中学校保護者の個人情報漏えいの恐れ　つくば市　写真販売会社が不正アクセス受け」「ホーム開幕戦で敗れ2勝1敗　つくばサンガイア」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/11/20251119_podcast.mp3</guid>
+  <pubDate>Wed, 19 Nov 2025 10:43:44 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/11/20251119_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+中学校保護者の個人情報漏えいの恐れ　つくば市　写真販売会社が不正アクセス受け
+ホーム開幕戦で敗れ2勝1敗　つくばサンガイア
+自動運転中の低速車両が接触事故　つくば市が実証実験
+土浦市職員のHPが最優秀賞　霞ケ浦と筑波山周辺を紹介
+緊急消防援助隊が合同訓練　1都9県の隊員ら1400人が集結　
+給食にカメムシとアブラムシ混入　つくば市　４小中学校]]></description>
+  <itunes:duration>Sat Dec 30 1899 09:25:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>39</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
