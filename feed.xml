@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 26 Nov 2025 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -690,6 +690,24 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 給食にカメムシとアブラムシ混入　つくば市　４小中学校]]></description>
   <itunes:duration>Sat Dec 30 1899 09:25:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>39</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年11月17日から25年11月24日掲載「自動運転バス「レベル4」27年度実現へ　つくば市で3回目の実証実験開始」「旧家住宅が登録有形文化財に　つくば市栗原　家族が保存・活用方法を模索」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/11/20251126_podcast.mp3</guid>
+  <pubDate>Wed, 26 Nov 2025 10:44:11 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/11/20251126_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+自動運転バス「レベル4」27年度実現へ　つくば市で3回目の実証実験開始
+旧家住宅が登録有形文化財に　つくば市栗原　家族が保存・活用方法を模索
+高所作業車から2人が転落　つくば市並木大橋
+地元企業から社協へ　福祉活動への寄付金を贈呈
+民有地の建物内にセアカゴケグモ　土浦市が注意呼び掛け
+30年にわたり筑波山を撮影　会沢淳さんが写真展　ダイナミックな自然、見るものを圧倒
+中学校保護者の個人情報漏えいの恐れ　つくば市　写真販売会社が不正アクセス受け]]></description>
+  <itunes:duration>Sat Dec 30 1899 11:53:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>40</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
