@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 03 Dec 2025 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -708,6 +708,22 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 中学校保護者の個人情報漏えいの恐れ　つくば市　写真販売会社が不正アクセス受け]]></description>
   <itunes:duration>Sat Dec 30 1899 11:53:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>40</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年11月24日から25年12月01日掲載「愛犬ミミの自然死《くずかごの唄》153」「「来年はもっとバージョンアップ」 関彰商事とハノイ工科大　スポンサー契約を更新」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/12/20251203_podcast.mp3</guid>
+  <pubDate>Wed, 03 Dec 2025 10:43:31 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/12/20251203_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+愛犬ミミの自然死《くずかごの唄》153
+「来年はもっとバージョンアップ」 関彰商事とハノイ工科大　スポンサー契約を更新
+免許返納後は公共交通でお出掛け　土浦のバス事業者が「乗り方教室」
+交通インフラで地域を変える　小田川つくばみらい市長【キーパーソン】
+市職員が刑事告発　つくば市生活保護行政めぐり「虚偽公文書作成罪に該当」]]></description>
+  <itunes:duration>Sat Dec 30 1899 07:58:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>41</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
