@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 10 Dec 2025 02:03:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Dec 2025 02:03:16 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -724,6 +724,22 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 市職員が刑事告発　つくば市生活保護行政めぐり「虚偽公文書作成罪に該当」]]></description>
   <itunes:duration>Sat Dec 30 1899 07:58:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>41</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年12月01日から25年12月08日掲載「つくばサンガイア　東京Vにストレート勝ち」「ポルシェセンターつくば　6日 リニューアルオープン」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/12/20251210_podcast.mp3</guid>
+  <pubDate>Wed, 10 Dec 2025 10:43:31 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/12/20251210_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+つくばサンガイア　東京Vにストレート勝ち
+ポルシェセンターつくば　6日 リニューアルオープン
+ハープギター国際イベントで3位　岡田英典さん　6日つくばで演奏披露
+茎崎交流センター別館17日開館　旧庁舎跡地の利活用一段落　つくば
+土浦市に本格的自家焙煎の店　5日オープン]]></description>
+  <itunes:duration>Sat Dec 30 1899 07:25:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>42</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
