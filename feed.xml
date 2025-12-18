@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 17 Dec 2025 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Dec 2025 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -740,6 +740,27 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 土浦市に本格的自家焙煎の店　5日オープン]]></description>
   <itunes:duration>Sat Dec 30 1899 07:25:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>42</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年12月08日から25年12月15日掲載「「支える人が守られる環境を」児童相談所元職員 飯島章大さん講演会　21日 土浦」「「支える人が守られる環境を」児童相談所元職員 飯島章太さん講演会　21日 土浦」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/12/20251217_podcast.mp3</guid>
+  <pubDate>Wed, 17 Dec 2025 10:44:45 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/12/20251217_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+「支える人が守られる環境を」児童相談所元職員 飯島章大さん講演会　21日 土浦
+「支える人が守られる環境を」児童相談所元職員 飯島章太さん講演会　21日 土浦
+外国人排斥の風潮に強い危機感　市民団体「牛久入管を考える会」が報告会
+環境にやさしい素材で　子供たちがアート体験　つくば スタジオ’S
+サンタにふんし ごみ拾い　TX万博記念公園駅周辺で障害者ら
+ソプラノ歌手招き　歌ってフレイル予防を　つくばのコーラスサークル
+無人のダンプが坂下り出し 軽トラの女性けが　つくば市発注の水道工事
+11年ぶりのお色直し　つくばエキスポセンター H2ロケット
+原因は強い太陽フレア　低速自動運転車の接触事故　つくば市
+どう発信しどう対処？　一部誤情報と共にSNSで拡散　中学校の不審者情報]]></description>
+  <itunes:duration>Sat Dec 30 1899 16:35:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>43</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
