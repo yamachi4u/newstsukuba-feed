@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 24 Dec 2025 02:03:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Dec 2025 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -761,6 +761,29 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 どう発信しどう対処？　一部誤情報と共にSNSで拡散　中学校の不審者情報]]></description>
   <itunes:duration>Sat Dec 30 1899 16:35:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>43</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年12月15日から25年12月22日掲載「「つくばは第二の故郷」 日本人3人目のISS船長 大西卓哉飛行士」「県立高不足「つくばエリアは新たな事態に」　市民団体が学習会」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/12/20251224_podcast.mp3</guid>
+  <pubDate>Wed, 24 Dec 2025 10:45:10 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/12/20251224_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+「つくばは第二の故郷」 日本人3人目のISS船長 大西卓哉飛行士
+県立高不足「つくばエリアは新たな事態に」　市民団体が学習会
+「公示送達」のネット拡散に懸念　つくば市議会で珍事
+高校生が江崎玲於奈賞受賞者と科学交流　つくば
+職員2人を懲戒処分　土浦市
+技術の粋集めた「霧筑波」で最優秀賞　つくばの浦里酒造店
+5選手がJリーグへ　筑波大蹴球部
+日本ハムに1位指名の大川投手　母校･常総学院に凱旋
+留学生の授業料値上げへ　筑波大　27年度入学から
+「支える人が守られる環境を」児童相談所元職員 飯島章大さん講演会　21日 土浦
+「支える人が守られる環境を」児童相談所元職員 飯島章太さん講演会　21日 土浦
+外国人排斥の風潮に強い危機感　市民団体「牛久入管を考える会」が報告会]]></description>
+  <itunes:duration>Sat Dec 30 1899 20:51:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>44</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
