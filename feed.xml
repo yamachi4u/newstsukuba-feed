@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 31 Dec 2025 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Jan 2026 02:03:11 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -784,6 +784,24 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 外国人排斥の風潮に強い危機感　市民団体「牛久入管を考える会」が報告会]]></description>
   <itunes:duration>Sat Dec 30 1899 20:51:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>44</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年12月22日から25年12月29日掲載「不適切な事務 新たに4点　つくば市生活保護行政　県監査で指摘」「個人情報記載の住宅地図を誤配布　つくば市」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2025/12/20251231_podcast.mp3</guid>
+  <pubDate>Wed, 31 Dec 2025 10:43:54 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2025/12/20251231_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+不適切な事務 新たに4点　つくば市生活保護行政　県監査で指摘
+個人情報記載の住宅地図を誤配布　つくば市
+大の里の姿を精巧に表現　雲竜型土俵入りなど人形2体を贈呈
+30年度1学級増、33年度2学級減　つくばエリアの県立高　県高校審議会答申資料で推計値
+「たくさんの応援で結果出せた」筑波技術大 星野選手ら　デフリンピック
+つくば駅前に大型ディスプレイ登場　イルミネーションと共ににぎわいを
+「つくばは第二の故郷」 日本人3人目のISS船長 大西卓哉飛行士]]></description>
+  <itunes:duration>Sat Dec 30 1899 10:19:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>45</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
