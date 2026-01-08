@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 07 Jan 2026 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -802,6 +802,21 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 「つくばは第二の故郷」 日本人3人目のISS船長 大西卓哉飛行士]]></description>
   <itunes:duration>Sat Dec 30 1899 10:19:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>45</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>25年12月29日から26年01月05日掲載「つくば駅前で市民らがスタンディング　米国のベネズエラ軍事行動に抗議」「霞ケ浦 土浦港周辺をリゾート地域に　市・県有地を民間の力で整備」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/01/20260107_podcast.mp3</guid>
+  <pubDate>Wed, 07 Jan 2026 10:43:27 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/01/20260107_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+つくば駅前で市民らがスタンディング　米国のベネズエラ軍事行動に抗議
+霞ケ浦 土浦港周辺をリゾート地域に　市・県有地を民間の力で整備
+引退競走馬の可能性を広げたい　馬耕ワイン、セラピー　美浦村に拠点
+不適切な事務 新たに4点　つくば市生活保護行政　県監査で指摘]]></description>
+  <itunes:duration>Sat Dec 30 1899 06:21:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>46</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
