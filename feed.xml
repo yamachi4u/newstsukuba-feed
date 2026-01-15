@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 14 Jan 2026 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -817,6 +817,23 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 不適切な事務 新たに4点　つくば市生活保護行政　県監査で指摘]]></description>
   <itunes:duration>Sat Dec 30 1899 06:21:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>46</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年01月05日から26年01月12日掲載「親子連れ70人がカヤ刈り　地元の文化財「五角堂」修理の材料に　つくば」「招待状に「特別支援学校」初めて記載　つくば市 二十歳の集い」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/01/20260114_podcast.mp3</guid>
+  <pubDate>Wed, 14 Jan 2026 10:43:31 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/01/20260114_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+親子連れ70人がカヤ刈り　地元の文化財「五角堂」修理の材料に　つくば
+招待状に「特別支援学校」初めて記載　つくば市 二十歳の集い
+つくば、土浦で「二十歳のつどい」
+産後ケア利用の男児が一時意識不明に　つくば市 重大事故検証委設置へ
+霞ケ浦導水やTX延伸が話題に　土浦市で賀詞交歓会
+19歳以上に1人5千円支給へ　つくば市　政府の交付金活用]]></description>
+  <itunes:duration>Sat Dec 30 1899 09:23:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>47</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
