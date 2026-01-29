@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 28 Jan 2026 02:03:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Jan 2026 02:10:05 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -855,6 +855,23 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 親子連れ70人がカヤ刈り　地元の文化財「五角堂」修理の材料に　つくば]]></description>
   <itunes:duration>Sat Dec 30 1899 14:36:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>48</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年01月19日から26年01月26日掲載「5氏が立候補へ　茨城6区　衆院選’26」「投票所入場券 間に合わず　つくば市　衆院選&#8217;26」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/01/20260128_podcast.mp3</guid>
+  <pubDate>Wed, 28 Jan 2026 10:44:02 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/01/20260128_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+5氏が立候補へ　茨城6区　衆院選’26
+投票所入場券 間に合わず　つくば市　衆院選&#8217;26
+ごみピット内で出火　一時白煙が充満　土浦市清掃センター
+立憲の青山氏「中道」に加わらず　衆院選茨城6区　4氏が立候補へ
+昨日までの邸宅を脱ぎ捨て、「駅前」という自由をまとう《人生100年時代》
+生物多様性保全、情報発信で協力　つくば市と実験植物園が連携協定]]></description>
+  <itunes:duration>Sat Dec 30 1899 10:05:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>49</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
