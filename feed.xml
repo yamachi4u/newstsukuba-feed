@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 18 Feb 2026 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Feb 2026 02:03:13 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -897,6 +897,23 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 5氏が届け出　茨城6区　衆院選公示]]></description>
   <itunes:duration>Sat Dec 30 1899 23:03:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>50</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年02月09日から26年02月16日掲載「筑波大ラグビー部の歴代ジャージを再生　福祉と結び「つくベア」誕生」「スマートICとTX延伸見据え産業用地の候補地抽出　土浦市’26当初予算案」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/02/20260218_podcast.mp3</guid>
+  <pubDate>Wed, 18 Feb 2026 10:43:40 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/02/20260218_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+筑波大ラグビー部の歴代ジャージを再生　福祉と結び「つくベア」誕生
+スマートICとTX延伸見据え産業用地の候補地抽出　土浦市’26当初予算案
+1人5千円を電子クーポンなどで給付、水道基本料金も半年間減免　土浦市
+北条の街で起こった出来事《映画探偵団》97
+デジタル技術を駆使　アニメ、ゲーム、広告デザインなど展示　日本国際学園大
+紅梅満開 白梅咲き初む　筑波山梅まつり開幕]]></description>
+  <itunes:duration>Sat Dec 30 1899 09:29:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>51</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
