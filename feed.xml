@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 25 Feb 2026 02:03:20 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Feb 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -914,6 +914,26 @@ TXが開業20年 「多くの方に支えられ成長できた」　
 紅梅満開 白梅咲き初む　筑波山梅まつり開幕]]></description>
   <itunes:duration>Sat Dec 30 1899 09:29:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>51</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年02月16日から26年02月23日掲載「戦争と差別に反対　若者たちがスタンディングデモ　つくば駅前」「つくば市平沢で林野火災」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/02/20260225_podcast.mp3</guid>
+  <pubDate>Wed, 25 Feb 2026 10:44:23 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/02/20260225_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+戦争と差別に反対　若者たちがスタンディングデモ　つくば駅前
+つくば市平沢で林野火災
+つくば市平沢で林野火災　女性がやけど
+高市首相に土浦のレンコンをお届け　安藤市長ら
+サックス奏者らが開催　「土浦の音」を聞く体感イベント　23日 東光寺
+TX土浦延伸実現に向けシンポジウム　地元高校生が提案
+【ファクトチェック】外国人「優遇」制度とヨーロッパの治安めぐる発言は本当か　衆院選&#8217;26
+12本中半数に空洞　ソメイヨシノ6本を伐採　つくば 桜の名所 農林さくら通り
+筑波大ラグビー部の歴代ジャージを再生　福祉と結び「つくベア」誕生]]></description>
+  <itunes:duration>Sat Dec 30 1899 12:17:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>52</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
