@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 04 Mar 2026 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2026 02:03:11 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -934,6 +934,21 @@ TX土浦延伸実現に向けシンポジウム　地元高校生が提案
 筑波大ラグビー部の歴代ジャージを再生　福祉と結び「つくベア」誕生]]></description>
   <itunes:duration>Sat Dec 30 1899 12:17:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>52</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年02月23日から26年03月02日掲載「創立40周年祝う　つくば学園ロータリークラブ」「サンガイア、千葉に連勝　プレーオフ進出の可能性残す」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/03/20260304_podcast.mp3</guid>
+  <pubDate>Wed, 04 Mar 2026 10:43:36 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/03/20260304_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+創立40周年祝う　つくば学園ロータリークラブ
+サンガイア、千葉に連勝　プレーオフ進出の可能性残す
+常陸牛のおいしさ発信拠点に　つくば駅前に専門料理店「常陸牛 山水」
+最新の脅威動向と防御策学ぶ　つくばでサイバーセキュリティ対策セミナー]]></description>
+  <itunes:duration>Sat Dec 30 1899 05:34:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>53</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
