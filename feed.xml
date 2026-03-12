@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 11 Mar 2026 02:03:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -949,6 +949,26 @@ TX土浦延伸実現に向けシンポジウム　地元高校生が提案
 最新の脅威動向と防御策学ぶ　つくばでサイバーセキュリティ対策セミナー]]></description>
   <itunes:duration>Sat Dec 30 1899 05:34:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>53</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年03月02日から26年03月09日掲載「ロボッツ、第4Qで崩れ名古屋Dに悔敗」「店頭など44カ所にミモザ飾る　セキショウグループ　8日は国際女性デー」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/03/20260311_podcast.mp3</guid>
+  <pubDate>Wed, 11 Mar 2026 10:44:20 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/03/20260311_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+ロボッツ、第4Qで崩れ名古屋Dに悔敗
+店頭など44カ所にミモザ飾る　セキショウグループ　8日は国際女性デー
+14カ国・地域の101人が巣立つ　日本つくば国際語学院で卒業式
+電子顕微鏡が体験できる博物館　操作はスマホ感覚
+粘土で広がる世界　自閉症の粘土作家・松橋克希さん　つくばで個展
+半世紀の集大成　光を描く水彩画家 中野瑞枝さん回顧展　つくば美術館
+電子看板のガイドラインを策定　土浦市　県内初　光・動き・音に指針
+創立40周年祝う　つくば学園ロータリークラブ
+サンガイア、千葉に連勝　プレーオフ進出の可能性残す]]></description>
+  <itunes:duration>Sat Dec 30 1899 13:01:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>54</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
