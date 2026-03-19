@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 18 Mar 2026 02:03:20 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Mar 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -969,6 +969,23 @@ TX土浦延伸実現に向けシンポジウム　地元高校生が提案
 サンガイア、千葉に連勝　プレーオフ進出の可能性残す]]></description>
   <itunes:duration>Sat Dec 30 1899 13:01:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>54</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年03月09日から26年03月16日掲載「全国の「色川さん」集う　つくば・土浦でサミット開催」「「真のプロフェッショナルに」つくば国際ペット専門学校で卒業式」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/03/20260318_podcast.mp3</guid>
+  <pubDate>Wed, 18 Mar 2026 10:43:35 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/03/20260318_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+全国の「色川さん」集う　つくば・土浦でサミット開催
+「真のプロフェッショナルに」つくば国際ペット専門学校で卒業式
+49年 市民が清掃活動　水戸街道の松並木守る　土浦
+震災15年、原発事故を忘れない　つくばで集会
+学生宿舎値上げめぐり紛糾　筑波大　大学側の強行姿勢に学生ら批判や撤回要求
+ロボッツ、第4Qで崩れ名古屋Dに悔敗]]></description>
+  <itunes:duration>Sat Dec 30 1899 08:20:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>55</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
