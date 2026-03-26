@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 25 Mar 2026 02:03:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Mar 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -986,6 +986,26 @@ TX土浦延伸実現に向けシンポジウム　地元高校生が提案
 ロボッツ、第4Qで崩れ名古屋Dに悔敗]]></description>
   <itunes:duration>Sat Dec 30 1899 08:20:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>55</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年03月16日から26年03月23日掲載「筑波研究学園都市を一つの研究教育共創体に　筑波大など25機関が協議会設立」「琉球の希少植物と暮らしを紹介　筑波実験植物園で企画展」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/03/20260325_podcast.mp3</guid>
+  <pubDate>Wed, 25 Mar 2026 10:44:47 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/03/20260325_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+筑波研究学園都市を一つの研究教育共創体に　筑波大など25機関が協議会設立
+琉球の希少植物と暮らしを紹介　筑波実験植物園で企画展
+学校給食に金属製ナット混入　つくば市の義務教育学校
+「人生という旅を楽しんで」 日本国際学園大学で卒業式
+土浦の新小学1年生に黄色い帽子を寄付　JA水郷つくば
+学生宿舎値上げを1年延期　筑波大
+廃棄していた果肉を活用　福来みかんのドリンク開発　筑波山神社参道の土産店
+葛城地区周辺11カ所440ヘクタールを区域指定　つくば市　住宅供給に期待
+全国の「色川さん」集う　つくば・土浦でサミット開催]]></description>
+  <itunes:duration>Sat Dec 30 1899 14:57:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>56</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
