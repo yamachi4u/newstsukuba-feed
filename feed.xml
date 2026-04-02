@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 01 Apr 2026 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 02:03:15 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1006,6 +1006,26 @@ TX土浦延伸実現に向けシンポジウム　地元高校生が提案
 全国の「色川さん」集う　つくば・土浦でサミット開催]]></description>
   <itunes:duration>Sat Dec 30 1899 14:57:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>56</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年03月23日から26年03月30日掲載「アストロプラネッツ、茨城ダービーでゴールデンゴールズに勝利」「塗装完了、ライトアップ再開　つくばエキスポセンター H2ロケット」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/04/20260401_podcast.mp3</guid>
+  <pubDate>Wed, 01 Apr 2026 10:44:21 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/04/20260401_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+アストロプラネッツ、茨城ダービーでゴールデンゴールズに勝利
+塗装完了、ライトアップ再開　つくばエキスポセンター H2ロケット
+J:COM茨城が「JCOMマーケティング茨城支社」に　4月から
+市営駐輪場のオンライン申請でシステム障害　つくば市
+筑波大「志受け止め尽力」　被告に終身刑判決受け　仏留学の黒崎さん行方不明事件　
+10年ぶり海外視察再開　つくば市議会　800万円計上、市議5人がドイツ・ボーフム市へ
+標本520万点 資料収蔵施設の「舞台裏」を公開　国立科学博物館 筑波研究施設
+2億円超の復旧費用めぐり　運営管理事業者がつくば市を提訴　ごみ焼却施設
+筑波研究学園都市を一つの研究教育共創体に　筑波大など25機関が協議会設立]]></description>
+  <itunes:duration>Sat Dec 30 1899 14:55:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>57</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
