@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 08 Apr 2026 02:03:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 02:03:14 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1026,6 +1026,24 @@ J:COM茨城が「JCOMマーケティング茨城支社」に　4月から
 筑波研究学園都市を一つの研究教育共創体に　筑波大など25機関が協議会設立]]></description>
   <itunes:duration>Sat Dec 30 1899 14:55:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>57</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年03月30日から26年04月06日掲載「開幕戦は引き分け　つくばFC」「さくら小学校が開校　TX沿線の学校新設に区切り　つくば市」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/04/20260408_podcast.mp3</guid>
+  <pubDate>Wed, 08 Apr 2026 10:44:47 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/04/20260408_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+開幕戦は引き分け　つくばFC
+さくら小学校が開校　TX沿線の学校新設に区切り　つくば市
+「小さな目標から一つずつ実現を」 日本国際学園大で入学式　つくば
+公募は仕切り直し　霞ケ浦土浦港周辺整備計画　3者が不合格
+配偶者暴力相談支援センターを設置　つくば市　DV防止法に位置付け
+浴場を全面リニューアル　高齢者支援センターくきざき　つくば
+インド出身校長が退任　今後は地域貢献に意欲　土浦一高]]></description>
+  <itunes:duration>Sat Dec 30 1899 09:41:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>58</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
