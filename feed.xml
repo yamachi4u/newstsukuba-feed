@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 29 Apr 2026 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Apr 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1079,6 +1079,26 @@ J:COM茨城が「JCOMマーケティング茨城支社」に　4月から
 開幕2連勝　つくばFCレディース]]></description>
   <itunes:duration>Sat Dec 30 1899 12:15:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>60</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年04月20日から26年04月27日掲載「柵が倒れ女子児童けが　つくばカピオ前広場」「障害者の余暇活動充実へ　つくばで新団体スタート　」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/04/20260429_podcast.mp3</guid>
+  <pubDate>Wed, 29 Apr 2026 10:44:44 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/04/20260429_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+柵が倒れ女子児童けが　つくばカピオ前広場
+障害者の余暇活動充実へ　つくばで新団体スタート　
+スペインに海外出張　五十嵐つくば市長　4泊6日
+「ツル植物の女王」クレマチス　筑波実験植物園でコレクション特別公開
+7カ国96人を歓迎　4月入学者2.8倍に　日本つくば国際語学院　
+県内初、知的障害者バスケ大会「スマイルカップ」　5月6日 つくばで開催
+「市民の応援が大きな励みに」油井宇宙飛行士、つくば市長を表敬訪問
+対策必要な下水管 延長600メートル　つくば市　八潮市の陥没事故受け特別調査
+学校給食の牛乳に異味　土浦市　6校の12人が体調不良]]></description>
+  <itunes:duration>Sat Dec 30 1899 16:06:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>61</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
