@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 06 May 2026 02:03:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 07 May 2026 02:03:16 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1099,6 +1099,24 @@ J:COM茨城が「JCOMマーケティング茨城支社」に　4月から
 学校給食の牛乳に異味　土浦市　6校の12人が体調不良]]></description>
   <itunes:duration>Sat Dec 30 1899 16:06:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>61</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年04月27日から26年05月04日掲載「土浦日大が29年ぶり優勝　&#8217;26春季高校野球県大会」「学生たちがゼロから挑戦　6月7日 つくばで野外音楽フェス」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/05/20260506_podcast.mp3</guid>
+  <pubDate>Wed, 06 May 2026 10:44:06 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/05/20260506_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+土浦日大が29年ぶり優勝　&#8217;26春季高校野球県大会
+学生たちがゼロから挑戦　6月7日 つくばで野外音楽フェス
+土浦日大と水城が決勝へ　&#8217;26春季高校野球県大会
+他食品の臭いが移ったと推定　牛乳の異味　土浦市学校給食
+新業態のカフェオープン　つくば市の建設業者
+柵が倒れ女子児童けが　つくばカピオ前広場
+障害者の余暇活動充実へ　つくばで新団体スタート　]]></description>
+  <itunes:duration>Sat Dec 30 1899 11:31:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>62</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
