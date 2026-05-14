@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 13 May 2026 02:03:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 14 May 2026 02:03:13 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1117,6 +1117,24 @@ J:COM茨城が「JCOMマーケティング茨城支社」に　4月から
 障害者の余暇活動充実へ　つくばで新団体スタート　]]></description>
   <itunes:duration>Sat Dec 30 1899 11:31:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>62</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年05月04日から26年05月11日掲載「U-23日本代表の大岩監督　つくばのサッカー少年を激励」「手応えある勝利　つくばFCレディース　前期ホーム最終戦終え4位」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/05/20260513_podcast.mp3</guid>
+  <pubDate>Wed, 13 May 2026 10:44:08 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/05/20260513_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+U-23日本代表の大岩監督　つくばのサッカー少年を激励
+手応えある勝利　つくばFCレディース　前期ホーム最終戦終え4位
+不同意わいせつ罪確定の消防士が失職　つくば市
+「仕事も競技も全力で」アスリート社員らが抱負　関彰商事入社式
+「全員で戦えた」 知的障害者バスケ大会　つくばで県内初開催
+筑波大生ら　メーデー行動で「学生宿舎値上げ反対」訴え
+土浦日大が29年ぶり優勝　&#8217;26春季高校野球県大会]]></description>
+  <itunes:duration>Sat Dec 30 1899 10:46:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>63</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
