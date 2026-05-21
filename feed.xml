@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 20 May 2026 02:03:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 21 May 2026 02:03:14 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1135,6 +1135,25 @@ U-23日本代表の大岩監督　つくばのサッカー少年を激励
 土浦日大が29年ぶり優勝　&#8217;26春季高校野球県大会]]></description>
   <itunes:duration>Sat Dec 30 1899 10:46:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>63</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年05月11日から26年05月18日掲載「地元県立高5校が魅力を紹介　24日「高校進学を考える集い」」「免許失効したまま公用車など運転　市職員を減給処分　土浦市」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/05/20260520_podcast.mp3</guid>
+  <pubDate>Wed, 20 May 2026 10:44:24 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/05/20260520_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+地元県立高5校が魅力を紹介　24日「高校進学を考える集い」
+免許失効したまま公用車など運転　市職員を減給処分　土浦市
+つくばで7年ぶり復活、土浦は初開催へ　筑波山で二つの自転車レース
+学生たちの「空への挑戦」　半世紀越し技術遺産に認定　人力飛行機「ストークB」
+児童扶養手当を過少に支給　つくば市　1165人に計153万円
+過去最高益に　筑波銀行26年3月期決算
+U-23日本代表の大岩監督　つくばのサッカー少年を激励
+手応えある勝利　つくばFCレディース　前期ホーム最終戦終え4位]]></description>
+  <itunes:duration>Sat Dec 30 1899 13:08:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>64</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
