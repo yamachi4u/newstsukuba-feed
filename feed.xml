@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 27 May 2026 02:03:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1154,6 +1154,26 @@ U-23日本代表の大岩監督　つくばのサッカー少年を激励
 手応えある勝利　つくばFCレディース　前期ホーム最終戦終え4位]]></description>
   <itunes:duration>Sat Dec 30 1899 13:08:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>64</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年05月18日から26年05月25日掲載「パスカルズ　つくばで初コンサート　30日カピオで」「地元酒販店4代目　都市型醸造所を23日オープン　土浦駅近く」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/05/20260527_podcast.mp3</guid>
+  <pubDate>Wed, 27 May 2026 10:45:12 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/05/20260527_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+パスカルズ　つくばで初コンサート　30日カピオで
+地元酒販店4代目　都市型醸造所を23日オープン　土浦駅近く
+事業用軽自動車の課税に誤り　116台 56万円を返金へ　土浦市
+リアリズムをとことん追求　60人の水彩画と色鉛筆画200点一堂に　県つくば美術館　
+Bプレミアに向け連携強化　ロボッツが土浦市を表敬訪問
+要配慮者3人の個人情報を漏えい　土浦市
+「電力消費、排熱、CO₂排出に懸念」歌川学さん講演　つくばに国内最大級のデータセンター（下）
+専門家「排熱で猛暑日増え熱中症増加の恐れ」　つくばに国内最大級のデータセンター（上）
+地元県立高5校が魅力を紹介　24日「高校進学を考える集い」]]></description>
+  <itunes:duration>Sat Dec 30 1899 15:52:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>65</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
