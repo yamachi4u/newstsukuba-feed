@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 03 Jun 2026 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 02:03:13 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1174,6 +1174,22 @@ Bプレミアに向け連携強化　ロボッツが土浦市を表敬訪問
 地元県立高5校が魅力を紹介　24日「高校進学を考える集い」]]></description>
   <itunes:duration>Sat Dec 30 1899 15:52:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>65</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年05月25日から26年06月01日掲載「大和ハウスが開発　つくば駅近くの公務員宿舎跡地」「TX乗車人員4.7%増の42万人に　過去最高を更新」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/06/20260603_podcast.mp3</guid>
+  <pubDate>Wed, 03 Jun 2026 10:43:48 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/06/20260603_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+大和ハウスが開発　つくば駅近くの公務員宿舎跡地
+TX乗車人員4.7%増の42万人に　過去最高を更新
+つくば市の人口、水戸市を抜いて県内一に　25年国勢調査速報
+給食の米飯350食分を廃棄　振替休日を連絡し忘れ　つくば市立中学校
+パスカルズ　つくばで初コンサート　30日カピオで]]></description>
+  <itunes:duration>Sat Dec 30 1899 08:57:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>66</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
