@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 10 Jun 2026 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1190,6 +1190,23 @@ TX乗車人員4.7%増の42万人に　過去最高を更新
 パスカルズ　つくばで初コンサート　30日カピオで]]></description>
   <itunes:duration>Sat Dec 30 1899 08:57:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>66</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年06月01日から26年06月08日掲載「住民団体結成、署名集め説明会開催要望へ【つくばに国内最大級のデータセンター】」「男女ホームゲームを同日開催　つくばFC」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/06/20260610_podcast.mp3</guid>
+  <pubDate>Wed, 10 Jun 2026 10:43:51 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/06/20260610_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+住民団体結成、署名集め説明会開催要望へ【つくばに国内最大級のデータセンター】
+男女ホームゲームを同日開催　つくばFC
+ラヂオつくば社長に就任した立川記子さん【キーパーソン】
+所属クラブの垣根超え写真展開催　土浦市民ギャラリー　高齢化で発表の場減少
+道路冠水や倒木被害相次ぐ　つくば、土浦　台風6号
+大和ハウスが開発　つくば駅近くの公務員宿舎跡地]]></description>
+  <itunes:duration>Sat Dec 30 1899 08:41:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>67</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
