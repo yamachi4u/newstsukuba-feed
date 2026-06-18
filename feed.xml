@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 17 Jun 2026 02:03:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1207,6 +1207,23 @@ TX乗車人員4.7%増の42万人に　過去最高を更新
 大和ハウスが開発　つくば駅近くの公務員宿舎跡地]]></description>
   <itunes:duration>Sat Dec 30 1899 08:41:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>67</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年06月08日から26年06月15日掲載「名門バレエダンサーが直接指導　子供たちが基本動作に挑戦　つくば」「かすみがうら市　土浦市に合併要望へ」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/06/20260617_podcast.mp3</guid>
+  <pubDate>Wed, 17 Jun 2026 10:43:46 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/06/20260617_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+名門バレエダンサーが直接指導　子供たちが基本動作に挑戦　つくば
+かすみがうら市　土浦市に合併要望へ
+市長「事業者は共生ガイドライン当然守る」【つくばに日本最大級のデータセンター】
+高規格救急車を導入　筑波大附属病院　都市開発が寄贈
+住民団体結成、署名集め説明会開催要望へ【つくばに国内最大級のデータセンター】
+男女ホームゲームを同日開催　つくばFC]]></description>
+  <itunes:duration>Sat Dec 30 1899 08:52:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>68</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
