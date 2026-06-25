@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 24 Jun 2026 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 02:03:11 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1224,6 +1224,20 @@ TX乗車人員4.7%増の42万人に　過去最高を更新
 男女ホームゲームを同日開催　つくばFC]]></description>
   <itunes:duration>Sat Dec 30 1899 08:52:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>68</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年06月15日から26年06月22日掲載「92校84チームの対戦カード決まる　7月4日開幕　高校野球茨城&#8217;26」「かすみがうら市、土浦市に合併協議・検討の場設置を要請」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/06/20260624_podcast.mp3</guid>
+  <pubDate>Wed, 24 Jun 2026 10:43:16 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/06/20260624_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+92校84チームの対戦カード決まる　7月4日開幕　高校野球茨城&#8217;26
+かすみがうら市、土浦市に合併協議・検討の場設置を要請
+砲丸投 森下大地選手が日本選手権2連覇　関彰商事で祝勝会]]></description>
+  <itunes:duration>Sat Dec 30 1899 06:36:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>69</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
