@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 01 Jul 2026 02:03:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 02:03:13 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1238,6 +1238,20 @@ TX乗車人員4.7%増の42万人に　過去最高を更新
 砲丸投 森下大地選手が日本選手権2連覇　関彰商事で祝勝会]]></description>
   <itunes:duration>Sat Dec 30 1899 06:36:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>69</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年06月22日から26年06月29日掲載「内山社長が退任、後任は常銀投資会社前社長の池田氏　つくば市のまちづくり会社」「武蔵美卒業生28人　個性あふれる作品117点展示 つくば美術館」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/07/20260701_podcast.mp3</guid>
+  <pubDate>Wed, 01 Jul 2026 10:43:09 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/07/20260701_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+内山社長が退任、後任は常銀投資会社前社長の池田氏　つくば市のまちづくり会社
+武蔵美卒業生28人　個性あふれる作品117点展示 つくば美術館
+腹話術全国大会で準優勝　つくば市在住の小学校教員　渡邊隼人さん【ひと】]]></description>
+  <itunes:duration>Sat Dec 30 1899 05:49:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>70</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
