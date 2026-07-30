@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 29 Jul 2026 02:03:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1325,6 +1325,26 @@ TX乗車人員4.7%増の42万人に　過去最高を更新
 沖縄を見つめる美術家 上原耕生さん　つくばで個展]]></description>
   <itunes:duration>Sun Dec 31 1899 00:26:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>73</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年07月20日から26年07月27日掲載「霞ケ浦が優勝、決勝で常総学院を倒す【高校野球茨城&#8217;26】」「霞ケ浦が決勝進出、相手は常総学院【高校野球茨城’26】」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/07/20260729_podcast.mp3</guid>
+  <pubDate>Wed, 29 Jul 2026 10:44:08 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/07/20260729_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+霞ケ浦が優勝、決勝で常総学院を倒す【高校野球茨城&#8217;26】
+霞ケ浦が決勝進出、相手は常総学院【高校野球茨城’26】
+常総学院、延長逆転サヨナラで決勝進出【高校野球茨城&#8217;26】
+世界一臭い花　ショクダイオオコンニャクが開花　筑波実験植物園
+154人のマイナカード署名用電子証明書が無効に　つくば市が作業誤り
+「人口県内一なのにつくばの県立高は水戸の3分の1」　市民団体が9回目の要望
+東日本大震災の記憶を継承　詩人・和合亮一さんらによる追悼企画
+稲山がまたも完投、霞ケ浦 準決勝へ【高校野球茨城&#8217;26】
+常総学院、常磐大に勝利しベスト4【高校野球茨城’26】]]></description>
+  <itunes:duration>Sat Dec 30 1899 14:42:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>74</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
