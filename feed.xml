@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 12 Aug 2026 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1363,6 +1363,24 @@ TX乗車人員4.7%増の42万人に　過去最高を更新
 合併ムーブの仕掛け人　前かすみがうら市長・宮嶋謙さん【キーパーソン】]]></description>
   <itunes:duration>Sat Dec 30 1899 11:54:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>75</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年08月03日から26年08月10日掲載「霞ケ浦、中京に勝利し2回戦へ【高校野球&#8217;26】」「先端技術の社会実装支援へ　つくば市がファンド創設」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/08/20260812_podcast.mp3</guid>
+  <pubDate>Wed, 12 Aug 2026 10:44:10 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/08/20260812_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+霞ケ浦、中京に勝利し2回戦へ【高校野球&#8217;26】
+先端技術の社会実装支援へ　つくば市がファンド創設
+筑波大生が夏休みの宿題応援　小学生ら絵画や書道に挑戦
+水草の進化と不思議を紹介　見て、触って、学べる企画展　筑波実験植物園
+合併めぐり土浦市長「かすみがうら新市長の検証見守りたい」
+広島・長崎の原爆パネル展開催　土浦市民ギャラリー【戦後81年】
+人形に命を吹き込む50年　筑波大学人形劇団「ノイ」]]></description>
+  <itunes:duration>Sat Dec 30 1899 14:09:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>76</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
