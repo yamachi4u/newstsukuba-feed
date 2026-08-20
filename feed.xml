@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 19 Aug 2026 02:03:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 02:03:13 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1381,6 +1381,26 @@ TX乗車人員4.7%増の42万人に　過去最高を更新
 人形に命を吹き込む50年　筑波大学人形劇団「ノイ」]]></description>
   <itunes:duration>Sat Dec 30 1899 14:09:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>76</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年08月10日から26年08月17日掲載「検査を「特別なこと」にしない　筑波大教員ら、土浦で無料の性感染症検査」「「感動をありがとう」霞ケ浦ナインに大きな拍手【高校野球&#8217;26】」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/08/20260819_podcast.mp3</guid>
+  <pubDate>Wed, 19 Aug 2026 10:44:20 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/08/20260819_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+検査を「特別なこと」にしない　筑波大教員ら、土浦で無料の性感染症検査
+「感動をありがとう」霞ケ浦ナインに大きな拍手【高校野球&#8217;26】
+1年間難民生活を送り38度線を越えた【語り継ぐ 戦後81年】4
+霞ケ浦、3回戦進出【高校野球&#8217;26】
+広島の焼け野が原を駆け回った【語り継ぐ 戦後81年】3
+授業中も空襲警報鳴り防空壕に避難【語り継ぐ 戦後81年】2
+ナシの出荷最盛期　JA水郷つくば　選果場設備を一新　
+自宅に負傷した日本兵がかつぎこまれた【語り継ぐ 戦後81年】１
+霞ケ浦、中京に勝利し2回戦へ【高校野球&#8217;26】]]></description>
+  <itunes:duration>Sat Dec 30 1899 14:09:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>77</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
