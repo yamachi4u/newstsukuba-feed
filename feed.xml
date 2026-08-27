@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 26 Aug 2026 02:03:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1401,6 +1401,28 @@ TX乗車人員4.7%増の42万人に　過去最高を更新
 霞ケ浦、中京に勝利し2回戦へ【高校野球&#8217;26】]]></description>
   <itunes:duration>Sat Dec 30 1899 14:09:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>77</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年08月17日から26年08月24日掲載「上下水道料金6177世帯分7300万円をクレジット会社に誤請求　つくば市がデータ送信誤り」「つくば市初の介護医療院　9月1日開所　長期療養と看取り担う」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/08/20260826_podcast.mp3</guid>
+  <pubDate>Wed, 26 Aug 2026 10:45:41 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/08/20260826_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+上下水道料金6177世帯分7300万円をクレジット会社に誤請求　つくば市がデータ送信誤り
+つくば市初の介護医療院　9月1日開所　長期療養と看取り担う
+「まつりつくば」始まる　来年は9月下旬開催
+ご当地電子マネー「土浦パトレイバーWAON」発行　イオン
+恐竜の島、どこよりも高い島…　夏休みの小学生　粘土で巨大な島づくりに挑戦
+消防職員を停職5カ月　土浦市　同僚と飲酒後、酒気帯び運転
+着工から半年、レストランで初の説明会　住民「不信感増しただけ」【つくば市に日本最大級のデータセンター】
+土浦一高哲学部のコラム集「放課後の哲学」が書籍化　NEWSつくばで連載
+「音」で土浦の今を残したい　子どもたちと集めた音でVR・AIアート体験を
+TX土浦延伸期成同盟会を設立　県内6市町長と議長
+検査を「特別なこと」にしない　筑波大教員ら、土浦で無料の性感染症検査]]></description>
+  <itunes:duration>Sat Dec 30 1899 18:32:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>78</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
