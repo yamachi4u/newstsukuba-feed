@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 02 Sep 2026 02:03:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1423,6 +1423,25 @@ TX土浦延伸期成同盟会を設立　県内6市町長と議長
 検査を「特別なこと」にしない　筑波大教員ら、土浦で無料の性感染症検査]]></description>
   <itunes:duration>Sat Dec 30 1899 18:32:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>78</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年08月24日から26年08月31日掲載「「市は公開説明会開催を」住民団体が市議会に請願【つくば市に国内最大級のデータセンター】」「優勝の可能性残す　つくばFCレディース　ホーム最終戦は引き分け」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/09/20260902_podcast.mp3</guid>
+  <pubDate>Wed, 02 Sep 2026 10:46:18 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/09/20260902_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+「市は公開説明会開催を」住民団体が市議会に請願【つくば市に国内最大級のデータセンター】
+優勝の可能性残す　つくばFCレディース　ホーム最終戦は引き分け
+がん患者や家族らが自由に集える「がんカフェ」開設　つくば市
+電源ケーブル約20本盗難　新治第2排水機場　土浦
+地籍調査で土地所有者48人の個人情報を紛失　つくば市
+天皇賜杯、全日本、国体出場選手・監督が決意　筑波銀行で壮行会
+「『軍都』を生きる」の著者、新書「軍都を歩く」を出版
+上下水道料金6177世帯分7300万円をクレジット会社に誤請求　つくば市がデータ送信誤り]]></description>
+  <itunes:duration>Sat Dec 30 1899 15:05:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>79</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
