@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 09 Sep 2026 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 02:03:13 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1442,6 +1442,22 @@ TX土浦延伸期成同盟会を設立　県内6市町長と議長
 上下水道料金6177世帯分7300万円をクレジット会社に誤請求　つくば市がデータ送信誤り]]></description>
   <itunes:duration>Sat Dec 30 1899 15:05:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>79</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年08月31日から26年09月07日掲載「「分からないことだらけ、不安たくさん」住民団体が設立総会【つくばに国内最大級のデータセンター】」「国スポ「3位以内目指したい」ライフル射撃　浅井優汰選手」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/09/20260909_podcast.mp3</guid>
+  <pubDate>Wed, 09 Sep 2026 10:43:33 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/09/20260909_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+「分からないことだらけ、不安たくさん」住民団体が設立総会【つくばに国内最大級のデータセンター】
+国スポ「3位以内目指したい」ライフル射撃　浅井優汰選手
+24時間介助受けながら理事長として働く　川島映利奈さん【ひと】
+「市は公開説明会開催を」住民団体が市議会に請願【つくば市に国内最大級のデータセンター】
+優勝の可能性残す　つくばFCレディース　ホーム最終戦は引き分け]]></description>
+  <itunes:duration>Sat Dec 30 1899 08:26:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>80</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
