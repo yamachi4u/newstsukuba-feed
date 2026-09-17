@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 16 Sep 2026 02:03:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 02:03:11 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1458,6 +1458,24 @@ TX土浦延伸期成同盟会を設立　県内6市町長と議長
 優勝の可能性残す　つくばFCレディース　ホーム最終戦は引き分け]]></description>
   <itunes:duration>Sat Dec 30 1899 08:26:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>80</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年09月07日から26年09月14日掲載「高校生の思いが本に　土浦一高哲学部が「放課後の哲学」出版記念イベント　」「開館40周年　累計来館者700万人に　つくばエキスポセンター」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/09/20260916_podcast.mp3</guid>
+  <pubDate>Wed, 16 Sep 2026 10:44:01 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/09/20260916_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+高校生の思いが本に　土浦一高哲学部が「放課後の哲学」出版記念イベント　
+開館40周年　累計来館者700万人に　つくばエキスポセンター
+「出口見えない研究、今も森の中」ラスカー賞受賞の筑波大 柳沢教授が会見
+別館宴会場「昴」を大改修　ホテル日航つくば
+投票時間1時間繰り上げ午後6時まで　つくば市選管
+ワイン用ブドウの収穫が最盛期　筑波山麓
+「分からないことだらけ、不安たくさん」住民団体が設立総会【つくばに国内最大級のデータセンター】]]></description>
+  <itunes:duration>Sat Dec 30 1899 12:41:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>81</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
