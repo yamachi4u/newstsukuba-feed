@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 23 Sep 2026 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 02:03:11 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1476,6 +1476,21 @@ TX土浦延伸期成同盟会を設立　県内6市町長と議長
 「分からないことだらけ、不安たくさん」住民団体が設立総会【つくばに国内最大級のデータセンター】]]></description>
   <itunes:duration>Sat Dec 30 1899 12:41:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>81</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年09月14日から26年09月21日掲載「公立幼稚園の再編案を撤回　保護者の懸念や反発受け　つくば市」「元研究補助の男性が産総研を提訴　次世代発電の実験中に高濃度のアンモニア吸引　」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/09/20260923_podcast.mp3</guid>
+  <pubDate>Wed, 23 Sep 2026 10:43:26 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/09/20260923_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+公立幼稚園の再編案を撤回　保護者の懸念や反発受け　つくば市
+元研究補助の男性が産総研を提訴　次世代発電の実験中に高濃度のアンモニア吸引　
+高校生の思いが本に　土浦一高哲学部が「放課後の哲学」出版記念イベント　
+開館40周年　累計来館者700万人に　つくばエキスポセンター]]></description>
+  <itunes:duration>Sat Dec 30 1899 07:31:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>82</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
