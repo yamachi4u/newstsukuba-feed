@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 30 Sep 2026 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1491,6 +1491,22 @@ TX土浦延伸期成同盟会を設立　県内6市町長と議長
 開館40周年　累計来館者700万人に　つくばエキスポセンター]]></description>
   <itunes:duration>Sat Dec 30 1899 07:31:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>82</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年09月21日から26年09月28日掲載「リーグ最終戦を3-0で飾る　つくばFC」「ゲリラ豪雨を再現、災害ドローン飛行実験　防災科研」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/09/20260930_podcast.mp3</guid>
+  <pubDate>Wed, 30 Sep 2026 10:43:39 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/09/20260930_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+リーグ最終戦を3-0で飾る　つくばFC
+ゲリラ豪雨を再現、災害ドローン飛行実験　防災科研
+Bプレミア開幕　茨城ロボッツ敗れる
+給食に異物混入　つくば市の義務教育学校
+管理職2人に計74万円賠償請求を　つくば市監査委員　生活保護行政の不適正事務]]></description>
+  <itunes:duration>Sat Dec 30 1899 07:38:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>83</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
