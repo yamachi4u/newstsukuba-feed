@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 07 Oct 2026 02:03:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1507,6 +1507,24 @@ Bプレミア開幕　茨城ロボッツ敗れる
 管理職2人に計74万円賠償請求を　つくば市監査委員　生活保護行政の不適正事務]]></description>
   <itunes:duration>Sat Dec 30 1899 07:38:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>83</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年09月28日から26年10月05日掲載「霞ケ浦、水城に敗れ優勝ならず　秋季関東高校県大会」「常総学院、8回に暗転 決勝進出ならず　秋季関東高校野球県大会」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/10/20261007_podcast.mp3</guid>
+  <pubDate>Wed, 07 Oct 2026 10:44:14 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/10/20261007_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+霞ケ浦、水城に敗れ優勝ならず　秋季関東高校県大会
+常総学院、8回に暗転 決勝進出ならず　秋季関東高校野球県大会
+霞ケ浦、東洋大牛久破り決勝へ　秋季関東高校野球県大会
+自動運転バス「レベル2」を日常運行　筑波大循環路線で2日から
+イオンの都市型商業施設「そよらつくば学園の森」10月25日オープン　県内初出店
+全日本ジュニアロードレース優勝の大関麟太郎さん　つくば市長を表敬
+理解できるが採択できない　つくば市によるデータセンター説明会求める住民請願　]]></description>
+  <itunes:duration>Sat Dec 30 1899 11:12:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>84</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
