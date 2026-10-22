@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 21 Oct 2026 02:03:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 02:03:11 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1525,6 +1525,26 @@ Bプレミア開幕　茨城ロボッツ敗れる
 理解できるが採択できない　つくば市によるデータセンター説明会求める住民請願　]]></description>
   <itunes:duration>Sat Dec 30 1899 11:12:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>84</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年10月12日から26年10月19日掲載「各国で収めた人々の暮らし　石川多依子さん写真展「一期一会2」」「新たにモバイルバッテリーの発火想定も　大規模地震想定しTXが総合訓練」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/10/20261021_podcast.mp3</guid>
+  <pubDate>Wed, 21 Oct 2026 10:44:25 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/10/20261021_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+各国で収めた人々の暮らし　石川多依子さん写真展「一期一会2」
+新たにモバイルバッテリーの発火想定も　大規模地震想定しTXが総合訓練
+日本の食と農を守ろう　11/1 つくば駅周辺でトラクターデモ《投稿》
+給食のご飯の量半分に　つくば市の小学校2校1268人分
+國井美香さん主演　26日 つくばでオペラコンサート
+19人が油彩画、水墨画など67点　筑波銀行退職者の会が美術展
+18人が油彩画、水墨画など67点　筑波銀行退職者の会が美術展
+飲食店、寺院などで6作品上演　17、18日 土浦まちなか演劇巡り
+「言葉でなく視線で会話」イタリアの劇団がつくばの保育園で公演]]></description>
+  <itunes:duration>Sat Dec 30 1899 14:23:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>85</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
