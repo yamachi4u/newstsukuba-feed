@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 28 Oct 2026 02:03:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 02:03:15 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1545,6 +1545,26 @@ Bプレミア開幕　茨城ロボッツ敗れる
 「言葉でなく視線で会話」イタリアの劇団がつくばの保育園で公演]]></description>
   <itunes:duration>Sat Dec 30 1899 14:23:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>85</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年10月19日から26年10月26日掲載「サンガイア、SVグロースに参戦　31日 ホーム開幕戦」「科学万博や鉄道…街の変遷たどる　国土地理院が「地図展つくば」」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/10/20261028_podcast.mp3</guid>
+  <pubDate>Wed, 28 Oct 2026 10:44:33 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/10/20261028_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+サンガイア、SVグロースに参戦　31日 ホーム開幕戦
+科学万博や鉄道…街の変遷たどる　国土地理院が「地図展つくば」
+VR体験などで認知の不思議に迫る　日本国際学園大で学園祭
+キノコ食文化の奥深さを紹介　筑波実験植物園で企画展
+次期学長予定者に永田氏を再任　筑波大　在任17年と長期に
+データセンター建設ガイドラインを策定　つくば市
+食、ものづくり、ベンチャーなど200ブースが出展　筑波銀行が商談会
+「進学を諦めない社会であってほしい」あしなが学生募金事務局 長瀬光来さん
+米価格の高騰と反落を語る　JA水郷つくばの油原組合長【キーパーソン】]]></description>
+  <itunes:duration>Sat Dec 30 1899 15:28:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>86</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
