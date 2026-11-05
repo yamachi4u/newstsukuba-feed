@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 04 Nov 2026 02:03:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1565,6 +1565,28 @@ VR体験などで認知の不思議に迫る　日本国際学園大で学園祭
 米価格の高騰と反落を語る　JA水郷つくばの油原組合長【キーパーソン】]]></description>
   <itunes:duration>Sat Dec 30 1899 15:28:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>86</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年10月26日から26年11月02日掲載「つくば駅前でトラクターデモ　令和の百姓一揆いばらき　県内8農協も参集」「「わんわんランド」で学園祭　つくば国際ペット専門学校」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/11/20261104_podcast.mp3</guid>
+  <pubDate>Wed, 04 Nov 2026 10:45:11 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/11/20261104_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+つくば駅前でトラクターデモ　令和の百姓一揆いばらき　県内8農協も参集
+「わんわんランド」で学園祭　つくば国際ペット専門学校
+日本代表も参加　青空の下でパラスポーツ体験　関彰商事
+五十嵐つくば市長 スペイン海外出張、黒田議長らドイツ視察　1日から6日間
+つくば市区は6人超の11陣営、土浦市区は4人超の7陣営　県議選立候補予定者説明会
+カタログギフトで地域おこし　筑波高校　
+11～12月にオープンハウス型説明会　事業者が市に回答【つくばに国内最大級のデータセンター】
+免震装置、40年の変化を検証　奥村組がつくばで実験
+筑波山の風景画家　御手洗さんしのび　回顧展と金色姫舞踏劇
+西友跡地にイオンそよら　ひたち野うしく駅前　11月18日オープン
+サンガイア、SVグロースに参戦　31日 ホーム開幕戦]]></description>
+  <itunes:duration>Sat Dec 30 1899 21:29:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>87</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
