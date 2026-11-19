@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 18 Nov 2026 02:03:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 02:03:13 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1605,6 +1605,21 @@ VR体験などで認知の不思議に迫る　日本国際学園大で学園祭
 データセンターを議論しよう　14日 歌川学さん講演]]></description>
   <itunes:duration>Sat Dec 30 1899 10:46:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>88</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年11月09日から26年11月16日掲載「江崎玲於奈賞に東大の斉藤英治教授　スピン流の物性科学を開拓」「工事一時中止を　住民団体が事業者に要望【つくばに国内最大級のデータセンター】」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/11/20261118_podcast.mp3</guid>
+  <pubDate>Wed, 18 Nov 2026 10:43:42 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/11/20261118_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+江崎玲於奈賞に東大の斉藤英治教授　スピン流の物性科学を開拓
+工事一時中止を　住民団体が事業者に要望【つくばに国内最大級のデータセンター】
+利上げ影響　過去最高益に　筑波銀行が27年3月期中間決算
+「誘致、全国がこぞって進めてる」2地区のデータセンター問題に五十嵐つくば市長]]></description>
+  <itunes:duration>Sat Dec 30 1899 09:51:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>89</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
