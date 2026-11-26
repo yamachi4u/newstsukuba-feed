@@ -5,7 +5,7 @@
 <link>https://newstsukuba.jp/</link>
 <language>ja-jp</language>
 <description>NEWSつくばのポッドキャストです。</description>
-<lastBuildDate>Wed, 25 Nov 2026 02:03:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 02:03:12 GMT</lastBuildDate>
 <itunes:author>NEWSつくば</itunes:author>
 <itunes:summary>NEWSつくばのポッドキャストです。</itunes:summary>
 <itunes:owner>
@@ -1620,6 +1620,23 @@ VR体験などで認知の不思議に迫る　日本国際学園大で学園祭
 「誘致、全国がこぞって進めてる」2地区のデータセンター問題に五十嵐つくば市長]]></description>
   <itunes:duration>Sat Dec 30 1899 09:51:00 GMT+0900 (Japan Standard Time)</itunes:duration>
   <itunes:episode>89</itunes:episode>
+  <itunes:season>1</itunes:season>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+  <title>26年11月16日から26年11月23日掲載「「公害防止協定のように数値目標、常時モニタリング、緊急時規定を」歌川学さん【データセンターを議論しよう1】上」「サンガイア　きんでんに敗れ最下位」ほか</title>
+  <guid isPermaLink="false">https://newstsukuba.jp/news/wp-content/uploads/2026/11/20261125_podcast.mp3</guid>
+  <pubDate>Wed, 25 Nov 2026 10:44:19 GMT</pubDate>
+  <enclosure url="https://newstsukuba.jp/news/wp-content/uploads/2026/11/20261125_podcast.mp3" type="audio/mpeg" />
+  <description><![CDATA[このポッドキャストは茨城県つくば・土浦地域で活動するウェブメディアNEWSつくばのポッドキャストです。今回配信するタイトルは下記のとおりです。:
+「公害防止協定のように数値目標、常時モニタリング、緊急時規定を」歌川学さん【データセンターを議論しよう1】上
+サンガイア　きんでんに敗れ最下位
+障害者が描いた絵がワインラベルに　つくばワイナリーで販売開始
+島田直也監督が退任　常総学院　後任に松林康徳部長
+つくば市区は5人超の10人　土浦市区は3人超の6人　県議選事前審査
+保護者らのメルアド1万6570件が漏えい　つくば市のアプリ利用者　不正アクセス受け]]></description>
+  <itunes:duration>Sat Dec 30 1899 12:37:00 GMT+0900 (Japan Standard Time)</itunes:duration>
+  <itunes:episode>90</itunes:episode>
   <itunes:season>1</itunes:season>
   <itunes:explicit>no</itunes:explicit>
 </item>
